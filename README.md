@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ameya757
-- 👀 I’m interested in Java Developement
+- 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning Android App Developement
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: We are going to die soon.
