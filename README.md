@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ameya757
+- 👋 Hi, I’m Amey
 - 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning SpringBoot and React
 - 😄 Pronouns: He/Him.
