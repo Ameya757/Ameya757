@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ameya757
 - 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Android App Developement
+- 🌱 I’m currently learning SpringBoot and React
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: We are going to die soon.
+- ⚡ Fun fact:
 
 <!---
 Ameya757/Ameya757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
