@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning SpringBoot and React
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact:
+- ⚡ Fun fact: I am obsessed with Anakin Skywalker
 
 <!---
 Ameya757/Ameya757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
